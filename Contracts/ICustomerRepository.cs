@@ -9,5 +9,6 @@ namespace Contracts
 {
     public interface ICustomerRepository: IRepositoryBase<Customer>
     {
+        IEnumerable<Customer> GetAllOwners();
     }
 }

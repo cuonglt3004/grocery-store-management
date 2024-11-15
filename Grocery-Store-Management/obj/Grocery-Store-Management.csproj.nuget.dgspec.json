@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Grocery-Store-Management\\Grocery-Store-Management.csproj": {}
+    "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Grocery-Store-Management\\Grocery-Store-Management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj"
+              "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj"
               }
             }
           }
@@ -39,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj": {
+    "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,7 +81,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -100,11 +93,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -132,18 +120,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Grocery-Store-Management\\Grocery-Store-Management.csproj": {
+    "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Grocery-Store-Management\\Grocery-Store-Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Grocery-Store-Management\\Grocery-Store-Management.csproj",
+        "projectUniqueName": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Grocery-Store-Management\\Grocery-Store-Management.csproj",
         "projectName": "Grocery-Store-Management",
-        "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Grocery-Store-Management\\Grocery-Store-Management.csproj",
+        "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Grocery-Store-Management\\Grocery-Store-Management.csproj",
         "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Grocery-Store-Management\\obj\\",
+        "outputPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Grocery-Store-Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,18 +142,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\LoggerService\\LoggerService.csproj"
+              "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\LoggerService\\LoggerService.csproj"
               },
-              "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Repository\\Repository.csproj"
+              "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Repository\\Repository.csproj"
               }
             }
           }
@@ -174,17 +161,16 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -223,18 +209,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\LoggerService\\obj\\",
+        "outputPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -245,15 +231,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj"
+              "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -262,11 +247,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -294,18 +274,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Repository\\Repository.csproj": {
+    "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -316,18 +296,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Contracts\\Contracts.csproj"
+              "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj"
+              "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj"
               }
             }
           }
@@ -336,11 +315,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -362,7 +336,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

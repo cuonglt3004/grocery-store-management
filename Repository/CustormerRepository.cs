@@ -15,5 +15,12 @@ namespace Repository
             : base(repositoryContext)
         {
         }
+
+        public IEnumerable<Customer> GetAllOwners()
+        {
+            return FindAll()
+                .OrderBy(ow => ow.Name)
+                .ToList();
+        }
     }
 }

@@ -13,6 +13,7 @@ namespace Grocery_Store_Management
             LogManager.Setup().LoadConfigurationFromFile();
 
             // Add services to the container.
+            builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.ConfigureCors();
             builder.Services.ConfigureRepositoryWrapper();
             builder.Services.ConfigureSQLServerService(builder.Configuration);

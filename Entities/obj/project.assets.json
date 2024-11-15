@@ -566,11 +566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -581,7 +581,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -594,11 +593,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -626,7 +620,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

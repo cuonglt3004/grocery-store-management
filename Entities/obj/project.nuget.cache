@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLil8Fdeu0A=",
+  "dgSpecHash": "DDiHPgq9VOYxjJu4uQ62AG8XPrj3L5Dbp5kNv/NNHV5/txYu/RTmYXBTqQ7Jt6XYVzKeKVkWqy3oSEbA8DboYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cuong\\source\\repos\\Grocery-Store-Management\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\cuong\\Source\\Repos\\grocery-store-management\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cuong\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\cuong\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
